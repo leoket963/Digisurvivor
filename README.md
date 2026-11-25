@@ -1,65 +1,106 @@
 # DigiSurvivor｜數碼暴龍倖存者
 
-A free, unofficial Digimon fan-made survival browser game.
-免費、非官方的數碼暴龍／數碼寶貝像素生存網頁遊戲。
+**A free, unofficial Digimon fan-made survival browser game by Fuyeah.**
+
+**由 Fuyeah 開發的免費、非官方數碼暴龍／數碼寶貝像素生存網頁遊戲。**
+
+Survive enemy waves, train your Digimon partners, and explore evolution paths.
+Play directly in your browser — no download required.
+
+在不斷來襲的敵群中生存，培養數碼獸夥伴，探索不同進化路線。
+直接用瀏覽器遊玩，無需下載。
 
 ## Play Now｜立即遊玩
 
-**https://digisurvivor.games/**
+**[Play DigiSurvivor｜免費開始遊玩](https://digisurvivor.games/)**
 
-Play directly in your browser — no download required.
-直接用瀏覽器遊玩，無需下載。
+- 免費遊玩｜Free to play
+- 無需下載｜No download required
+- 支援電腦及手機瀏覽器｜Desktop and mobile browsers
+- 繁體中文及英文介面｜Traditional Chinese and English interfaces
 
-## About the Game
+## About the Game｜遊戲介紹
 
-Survive waves of enemies, grow your Digimon partners,
-and explore evolution paths in a pixel-art survivors-style game.
+DigiSurvivor is a pixel-art survivors-style browser game.
+Fight through waves of enemies, develop your Digimon partners,
+explore evolution paths, and challenge bosses as the battle intensifies.
 
-- Digimon partners and evolution paths
-- Survival combat and boss encounters
-- Pixel-art visuals
-- Desktop and mobile browser play
-- Traditional Chinese and English interfaces
+DigiSurvivor 是一款像素風格的生存網頁遊戲。
+玩家需要在敵群中生存，培養數碼獸夥伴，探索進化路線，
+並隨著戰鬥推進，挑戰頭目及更高難度的生存戰。
 
-## 遊戲介紹
+### Features｜遊戲特色
 
-在不斷來襲的敵人中生存，培養數碼獸夥伴，
-探索不同進化路線，挑戰頭目與後期生存戰。
+- **Digimon partners and evolution**
+  Train your partners and explore different evolution paths.
+  培養數碼獸夥伴，探索不同進化路線。
 
-- 數碼獸夥伴培養與進化
-- 生存戰鬥及頭目挑戰
-- 像素風格畫面
-- 支援電腦及手機瀏覽器
-- 繁體中文及英文介面
+- **Survival combat**
+  Face waves of enemies and increasingly challenging battles.
+  面對持續來襲的敵群及逐漸提升的戰鬥難度。
 
-## Feedback｜意見回饋
+- **Skills and boss encounters**
+  Fight with signature skills and challenge powerful bosses.
+  使用專屬技能，挑戰強大的頭目。
 
-You can report bugs or share suggestions through this repository's Issues.
-歡迎透過本專案的 Issues 回報問題或提出建議。
+- **Pixel-art presentation**
+  Enjoy a retro pixel-art visual style.
+  體驗復古像素風格的遊戲畫面。
 
-Please do not include passwords, account information, or save files
-containing personal data.
-請勿公開密碼、帳戶資料或含個人資料的存檔。
+- **Browser-based play**
+  Play on desktop or mobile without installing an app.
+  電腦及手機均可透過瀏覽器遊玩，無需安裝應用程式。
 
-## Support｜支持開發
+## Creator｜作者
 
-The game is free to play. Support is optional and provides no
-gameplay advantages or exclusive game content.
+Created and maintained by **Fuyeah**.
 
-遊戲可免費遊玩，贊助純屬自願，不提供遊戲優勢或專屬遊戲內容。
+由 **Fuyeah** 開發及維護。
 
-- Ko-fi: https://ko-fi.com/fuyeah
-- Buy Me a Coffee: https://buymeacoffee.com/fuyeah
+- **GitHub:** https://github.com/leoket963
+- **Game website｜遊戲網站:** https://digisurvivor.games/
 
-## Disclaimer｜聲明
+## Feedback｜問題回報與建議
 
-DigiSurvivor is an unofficial fan-made project and is not affiliated
-with or endorsed by the Digimon rights holders.
-Digimon and related characters belong to their respective owners.
+Found a bug or have an idea?
+Please open an Issue in this repository.
 
-DigiSurvivor 為非官方同人作品，與數碼暴龍／數碼寶貝相關權利人
-並無隸屬、合作或官方認可關係。相關角色與商標屬各權利人所有。
+遇到問題或有改善建議？
+歡迎透過本專案的 **Issues** 提交。
 
-This repository provides game information and a feedback space.
-It does not grant a license to the game's source code or third-party assets.
-本專案用於遊戲介紹及意見回饋，不授予遊戲原始碼或第三方素材的使用授權。
+For bug reports, please include:
+回報問題時，請盡量提供：
+
+- What happened｜發生了甚麼問題
+- Steps to reproduce it｜如何重現問題
+- Your device and browser｜使用的裝置及瀏覽器
+- A screenshot or short recording, if helpful｜相關截圖或短片
+
+Please do not post passwords, login credentials, personal information,
+or save files containing private data.
+
+請勿公開密碼、登入憑證、個人資料，或包含私人資料的存檔。
+
+## Support Fuyeah｜支持作者 Fuyeah
+
+DigiSurvivor is free to play.
+If you enjoy the game, you can voluntarily support Fuyeah
+to help cover hosting, domain costs, and continued development.
+
+DigiSurvivor 可免費遊玩。
+如果你喜歡這個遊戲，可以自願支持作者 Fuyeah，
+協助負擔伺服器、網站網域及持續開發的開支。
+
+- **Ko-fi:** https://ko-fi.com/fuyeah
+- **Buy Me a Coffee:** https://buymeacoffee.com/fuyeah
+
+Support is entirely optional and provides no gameplay advantages
+or exclusive game content.
+
+贊助純屬自願，不提供任何遊戲優勢或專屬遊戲內容。
+無論是否贊助，都可以繼續免費遊玩。
+
+## Unofficial Fan Project｜非官方同人作品聲明
+
+DigiSurvivor is an unofficial fan-made project.
+It is not
