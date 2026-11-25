@@ -103,4 +103,29 @@ or exclusive game content.
 ## Unofficial Fan Project｜非官方同人作品聲明
 
 DigiSurvivor is an unofficial fan-made project.
-It is not
+It is not affiliated with, sponsored by, or endorsed by
+the rights holders of Digimon.
+
+Digimon, its characters, names, trademarks, and related materials
+belong to their respective rights holders.
+
+Fuyeah is the developer of this fan-made game and does not claim
+ownership of Digimon or third-party characters and assets.
+
+DigiSurvivor 為非官方同人作品，
+與數碼暴龍／數碼寶貝相關權利人並無隸屬、贊助或官方認可關係。
+
+數碼暴龍／數碼寶貝的角色、名稱、商標及相關素材，
+均屬各自權利人所有。
+
+Fuyeah 為本同人遊戲的開發者，
+不主張擁有數碼暴龍／數碼寶貝或第三方角色及素材的權利。
+
+## Repository Scope｜本專案用途
+
+This repository provides game information and a place for feedback.
+It does not grant a license to the game's source code
+or any third-party assets.
+
+本專案用於遊戲介紹及收集意見，
+不授予遊戲原始碼或任何第三方素材的使用授權。
